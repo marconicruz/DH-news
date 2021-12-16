@@ -1,0 +1,10 @@
+header h1 {
+color: #ec183f;
+}
+
+footer li {
+    display: inline-block;
+    margin-right: 8px;
+    text-align: center;
+    margin-bottom: 48px;
+}
